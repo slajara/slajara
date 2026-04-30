@@ -1,48 +1,41 @@
- <h1 align="left">Hey 👋 What's up?</h1>                                                                                                                                           
+<h1 align="left">Hey 👋 What's up?</h1>                                                                                                                                           
+                                                                                                                                                                                  
+  ###                                                                                                                                                                               
                                                                                                                                                                                     
-  ###             
-                                                                                                                                                                                    
-  <h2 align="left">About me</h2>
-
+  <h2 align="left">About me</h2>                                                                                                                                                    
+                                                                                                                                                                                  
   ###
 
-  <div>                                                                                                                                                                             
-    <img 
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8xbXdieHh6bjhxeDRmdXBnNWE5ZGplZ29lMnNzN256ZjU2aXc1NSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp"  
-  align="right" height="150" />
-    <p align="left">                                                                                                                                                                
-      👋 Hi! I'm <b>Samuel Lajara</b>, a senior fullstack engineer building production systems at scale.<br><br>
-      💼 Currently I work on:<br><br>                                                                                                                                               
-      • <b>Microservices architectures</b> with NestJS + ts-rest (contract-first APIs) and Prisma on PostgreSQL/Supabase.<br>
-      • <b>Modern web &amp; mobile apps</b> with Angular 21+ (Standalone, Signals), React 19+ / Next.js 15+, and Capacitor.<br>                                                     
-      • <b>Payments, KYC and crypto integrations</b>: Stripe, PayPal, Redsys, Sumsub, Didit, Fireblocks, Utila, ERC-1155 NFTs.<br>                                                  
-      • <b>Cloud-native delivery</b>: Kubernetes + buildpacks, observability with Pino, OpenTelemetry/SigNoz and Sentry.<br><br>                                                    
-      🌱 Always pushing for cleaner contracts, stricter types, and less code that does more.                                                                                        
-    </p>                                                                                                                                                                            
-  </div>                                                                                                                                                                            
+  <p align="left">                                                                                                                                                                  
+    👋 Hi! I'm <b>Samuel Lajara</b>, a senior fullstack engineer building production systems at scale.<br><br>
+    💼 Currently I work on:<br><br>                                                                                                                                                 
+    • <b>Microservices architectures</b> with NestJS + ts-rest (contract-first APIs) and Prisma on PostgreSQL/Supabase.<br>                                                         
+    • <b>Modern web &amp; mobile apps</b> with Angular 21+ (Standalone, Signals), React 19+ / Next.js 15+, and Capacitor.<br>                                                       
+    • <b>Payments, KYC and crypto integrations</b>: Stripe, PayPal, Redsys, Sumsub, Didit, Fireblocks, Utila, ERC-1155 NFTs.<br>                                                    
+    • <b>Self-hosted infra</b>: Docker + Dokploy on my own servers for simple, efficient deployments. Observability with Pino, OpenTelemetry/SigNoz and Sentry.<br><br>             
+    🌱 Always pushing for cleaner contracts, stricter types, and less code that does more.                                                                                          
+  </p>                                                                                                                                                                              
                                                                                                                                                                                     
-  ###             
-
-  <h2 align="left">Skills</h2>
-
+  ###                                                                                                                                                                               
+                  
+  <h2 align="left">Skills</h2>                                                                                                                                                      
+                  
   ###
-
-  <br clear="both">
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
     <img width="12" />                                                                                                                                                              
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
     <img width="12" />                                                                                                                                                              
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="45" alt="angular logo" />                                                    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="45" alt="angular logo" />
     <img width="12" />                                                                                                                                                              
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />                                                          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
     <img width="12" />                                                                                                                                                              
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
     <img width="12" />                                                                                                                                                              
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwind logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwind logo" />                                           
     <img width="12" />                                                                                                                                                              
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />                                                       
     <img width="12" />                                                                                                                                                              
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo" />
     <img width="12" />                                                                                                                                                              
@@ -54,20 +47,9 @@
     <img width="12" />                                                                                                                                                              
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
     <img width="12" />                                                                                                                                                              
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes logo" />
+    <img src="https://avatars.githubusercontent.com/u/137861355?s=200" height="45" alt="dokploy logo" />                                                                            
     <img width="12" />                                                                                                                                                              
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="45" alt="solidity logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="45" alt="solidity logo" />                                                 
   </div>                                                                                                                                                                            
-                  
-  ###                                                                                                                                                                               
-                  
-  <h2 align="left">GitHub Stats</h2>
-
-  ###
-
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=slajara&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slajara&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />          
-  </div>                                                                                                                                                                            
-                                                                                                                                                                                    
-  ###                                                
+   
+  ###                                                       
